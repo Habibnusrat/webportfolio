@@ -54,7 +54,7 @@ h1{
     float: left;
     background-repeat: no-repeat;
     background-position:left;
-    background-color: honeydew;
+
     margin: 20px;
 
 }
@@ -63,12 +63,14 @@ h1{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, lightsalmon, tomato);
     border-image-slice: 1;
+    background-color: white;
+
     
 }
 
 #hh{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
     
 }
